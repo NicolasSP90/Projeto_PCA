@@ -6,7 +6,7 @@
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge)
 ![matplotlib](https://img.shields.io/badge/matplotlib-222832?style=for-the-badge)
 ![seaborn](https://img.shields.io/badge/seaborn-white?style=for-the-badge)
-![plotly](https://img.shields.io/badge/seaborn-white?style=for-the-badge)
+![plotly](https://img.shields.io/badge/plotly-17181a?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-f7931e?style=for-the-badge)
 
 ---
